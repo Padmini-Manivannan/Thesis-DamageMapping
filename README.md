@@ -10,5 +10,5 @@ The idea is to study the affects of amplitude and coherence over a pre-disaster 
 and to detect these changes effectively. The output is in the form of csv files which can be imported into Google Earth or ArcGIS. The final map looks like this:
 
 <p align="center">
-  <img width="720" src="images/dawn.svg?sanitize=true">
+  <img width="720" src="OutputMapAmatrice.png?sanitize=true">
 </p>
