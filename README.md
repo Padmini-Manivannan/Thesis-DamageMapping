@@ -12,3 +12,5 @@ and to detect these changes effectively. The output is in the form of csv files 
 <p align="center">
   <img width="720" src="OutputMapAmatrice.png?sanitize=true">
 </p>
+
+The image shows enlarged results of the methodology applied to all the parameters (amplitude, coherence) during the M6.2 Central Italy earthquake in 2016. The damaged points derived from the methodology are indicated by coloured circles ranging from red to yellow representing heavily damaged to slightly damaged areas. The image represents the north-western part of Amatrice where most of the historical buildings were situated. 
